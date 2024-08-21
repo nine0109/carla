@@ -1,0 +1,1 @@
+pip install C:\carla\PythonAPI\carla\dist\carla-0.9.15-cp38-cp38-win_amd64.whl
